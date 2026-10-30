@@ -5,7 +5,7 @@ Kitronic V1 Android uygulaması ve ESP32 test cihazı için dağıtım deposu. K
 ## İndirme ve ilk kurulum
 
 - [Android uygulamasını indir](https://github.com/AriEmin/kitronic-v1-updates/releases/latest/download/Kitronic-Control.apk)
-- [ESP32 ilk USB kurulum paketi](https://github.com/AriEmin/kitronic-v1-updates/releases/latest/download/Kitronic-ESP32-USB-1.0.0.zip)
+- [ESP32 ilk USB kurulum paketi](https://github.com/AriEmin/kitronic-v1-updates/releases/download/v4.0.1/Kitronic-ESP32-USB-1.0.0.zip)
 - [Sürümler ve açıklamalar](https://github.com/AriEmin/kitronic-v1-updates/releases)
 
 Android 8 ve üzeri gerekir. İlk OTA destekli ESP sürümü, Classic Bluetooth destekli ESP32 / 4 MB cihaza USB ile yüklenir. USB ZIP'indeki kurulum açıklamasını okuyun. ESP32-S3/C3 için değildir.
